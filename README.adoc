@@ -1,4 +1,4 @@
-:imagesdir: ../images/patterns/
+:imagesdir: ./images/patterns/
 :source-highlighter: highlightjs
 :numbered:
 :unsafe:
